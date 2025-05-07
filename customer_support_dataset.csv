@@ -1,0 +1,101 @@
+Ticket ID,Customer Name,Email,Contact Number,Issue Category,Sub-Category,Query,Sentiment,Priority,Channel,Assigned Agent,Resolution Status,Time to Resolve,Customer Feedback,Chatbot Response
+T10101,Robert Davis,robert@email.com,7250922618,Product Inquiry,Availability,Sample query about availability,Frustrated,Medium,Website Bot,Agent_C,Pending,11 min,That helped!,"Click ""Forgot Password""."
+T10102,John Smith,john@email.com,7078372087,Product Inquiry,Specification,Sample query about specification,Frustrated,Low,Live Chat,Agent_B,Escalated,28 min,Thanks for fixing it.,"Click ""Forgot Password""."
+T10103,Sarah Lee,sarah@email.com,9697494001,Refund Request,Return Pickup,Sample query about return pickup,Frustrated,Medium,Social Media,Agent_C,Resolved,27 min,That helped!,We’ve initiated your request.
+T10104,David Park,david@email.com,7298017469,Account Issue,Password Reset,Sample query about password reset,Frustrated,Medium,Website Bot,Agent_A,Pending,30 min,Waiting for pickup confirmation.,"Yes, it’s waterproof."
+T10105,John Smith,john@email.com,8770397914,Product Inquiry,Availability,Sample query about availability,Neutral,High,Live Chat,Agent_B,Resolved,27 min,That helped!,"Click ""Forgot Password""."
+T10106,Ava Patel,ava@email.com,8193102302,Refund Request,Return Pickup,Sample query about return pickup,Happy,Low,Social Media,Agent_B,Escalated,21 min,Waiting for pickup confirmation.,We’ve initiated your request.
+T10107,Sophia Kim,sophia@email.com,7781700649,Technical Issue,Payment Failure,Sample query about payment failure,Happy,Critical,Mobile App,Bot,Pending,23 min,Quick help. Thanks!,Your order is on the way.
+T10108,John Smith,john@email.com,8676706170,Account Issue,Account Locked,Sample query about account locked,Angry,High,Live Chat,Agent_B,Resolved,20 min,Waiting for pickup confirmation.,"Yes, it’s waterproof."
+T10109,Robert Davis,robert@email.com,8806631818,Account Issue,Password Reset,Sample query about password reset,Angry,Critical,Mobile App,Agent_B,Pending,24 min,Waiting for pickup confirmation.,"Yes, it’s waterproof."
+T10110,Sophia Kim,sophia@email.com,8500825990,Account Issue,Password Reset,Sample query about password reset,Happy,High,Social Media,Agent_C,Escalated,15 min,That helped!,"Yes, it’s waterproof."
+T10111,David Park,david@email.com,9795995799,Technical Issue,Payment Failure,Sample query about payment failure,Angry,Critical,Email,Agent_B,Resolved,18 min,Got it. Thanks!,Your order is on the way.
+T10112,Ava Patel,ava@email.com,8282814906,Account Issue,Account Locked,Sample query about account locked,Happy,Critical,Mobile App,Agent_B,Pending,1 min,That helped!,Please reinstall the app.
+T10113,Emily Chen,emily@email.com,8153836635,Refund Request,Refund Delay,Sample query about refund delay,Neutral,Critical,Live Chat,Bot,Escalated,23 min,Quick help. Thanks!,"Click ""Forgot Password""."
+T10114,Sophia Kim,sophia@email.com,9822148759,Account Issue,Password Reset,Sample query about password reset,Frustrated,Critical,Mobile App,Agent_A,Escalated,9 min,Waiting for pickup confirmation.,Your order is on the way.
+T10115,Liam Wong,liam@email.com,7540235550,Refund Request,Return Pickup,Sample query about return pickup,Angry,Medium,Social Media,Agent_D,Escalated,12 min,Waiting for pickup confirmation.,"Click ""Forgot Password""."
+T10116,Ava Patel,ava@email.com,9401761635,Technical Issue,App Crash,Sample query about app crash,Angry,Critical,Website Bot,Agent_C,Escalated,4 min,Got it. Thanks!,We’ve initiated your request.
+T10117,John Smith,john@email.com,8418378545,Order Issue,Missing Item,Sample query about missing item,Happy,Critical,Social Media,Bot,Escalated,17 min,That helped!,Please reinstall the app.
+T10118,Emily Chen,emily@email.com,9929883457,Refund Request,Refund Delay,Sample query about refund delay,Angry,High,Mobile App,Agent_D,Escalated,24 min,Got it. Thanks!,Please reinstall the app.
+T10119,Robert Davis,robert@email.com,8641589403,Refund Request,Return Pickup,Sample query about return pickup,Frustrated,High,Social Media,Agent_B,Resolved,22 min,Got it. Thanks!,Your order is on the way.
+T10120,Sarah Lee,sarah@email.com,9407038458,Product Inquiry,Warranty,Sample query about warranty,Happy,Critical,Live Chat,Agent_A,Pending,20 min,Quick help. Thanks!,"Click ""Forgot Password""."
+T10121,John Smith,john@email.com,9797333143,Technical Issue,Payment Failure,Sample query about payment failure,Angry,Low,Social Media,Agent_B,Escalated,24 min,Quick help. Thanks!,"Yes, it’s waterproof."
+T10122,John Smith,john@email.com,7476905056,Technical Issue,App Crash,Sample query about app crash,Neutral,Medium,Social Media,Agent_D,Pending,5 min,Got it. Thanks!,"Click ""Forgot Password""."
+T10123,Noah Brown,noah@email.com,8171606721,Refund Request,Return Pickup,Sample query about return pickup,Happy,High,Mobile App,Agent_B,Pending,3 min,That helped!,We’ve initiated your request.
+T10124,Emily Chen,emily@email.com,8363810463,Order Issue,Missing Item,Sample query about missing item,Neutral,Low,Mobile App,Agent_D,Resolved,14 min,Waiting for pickup confirmation.,"Click ""Forgot Password""."
+T10125,John Smith,john@email.com,8652545252,Refund Request,Return Pickup,Sample query about return pickup,Neutral,Medium,Live Chat,Agent_A,Escalated,14 min,Waiting for pickup confirmation.,Your order is on the way.
+T10126,Sarah Lee,sarah@email.com,8725169996,Account Issue,Account Locked,Sample query about account locked,Neutral,Critical,Live Chat,Bot,Pending,14 min,That helped!,"Yes, it’s waterproof."
+T10127,John Smith,john@email.com,8421479618,Order Issue,Delayed Delivery,Sample query about delayed delivery,Happy,Critical,Live Chat,Agent_C,Resolved,21 min,Thanks for fixing it.,"Yes, it’s waterproof."
+T10128,Liam Wong,liam@email.com,8727324250,Technical Issue,Payment Failure,Sample query about payment failure,Neutral,Low,Live Chat,Agent_A,Escalated,4 min,Waiting for pickup confirmation.,Your order is on the way.
+T10129,Sophia Kim,sophia@email.com,9684144133,Order Issue,Wrong Item,Sample query about wrong item,Frustrated,Medium,Website Bot,Agent_C,Escalated,4 min,Quick help. Thanks!,Your order is on the way.
+T10130,Sarah Lee,sarah@email.com,8486567049,Product Inquiry,Specification,Sample query about specification,Neutral,Low,Mobile App,Agent_C,Resolved,16 min,Got it. Thanks!,"Yes, it’s waterproof."
+T10131,John Smith,john@email.com,8342649769,Technical Issue,Payment Failure,Sample query about payment failure,Angry,High,Live Chat,Agent_A,Pending,23 min,Thanks for fixing it.,"Click ""Forgot Password""."
+T10132,Emily Chen,emily@email.com,7003098805,Technical Issue,Payment Failure,Sample query about payment failure,Happy,Critical,Email,Agent_A,Escalated,13 min,Quick help. Thanks!,"Yes, it’s waterproof."
+T10133,Sarah Lee,sarah@email.com,9012527300,Account Issue,Account Locked,Sample query about account locked,Angry,Low,Website Bot,Agent_B,Pending,30 min,Quick help. Thanks!,Please reinstall the app.
+T10134,John Smith,john@email.com,7986924865,Account Issue,Password Reset,Sample query about password reset,Angry,High,Live Chat,Agent_C,Resolved,26 min,Got it. Thanks!,We’ve initiated your request.
+T10135,Sarah Lee,sarah@email.com,8712468831,Order Issue,Delayed Delivery,Sample query about delayed delivery,Frustrated,High,Social Media,Agent_D,Pending,6 min,Waiting for pickup confirmation.,"Click ""Forgot Password""."
+T10136,John Smith,john@email.com,7470511852,Refund Request,Refund Delay,Sample query about refund delay,Happy,High,Email,Bot,Resolved,2 min,That helped!,Your order is on the way.
+T10137,Emily Chen,emily@email.com,8876122036,Product Inquiry,Warranty,Sample query about warranty,Angry,Medium,Mobile App,Agent_D,Pending,12 min,Quick help. Thanks!,We’ve initiated your request.
+T10138,Mia Zhao,mia@email.com,7502925813,Order Issue,Missing Item,Sample query about missing item,Frustrated,High,Website Bot,Agent_B,Pending,28 min,Quick help. Thanks!,Please reinstall the app.
+T10139,David Park,david@email.com,8136405732,Account Issue,Password Reset,Sample query about password reset,Happy,Critical,Website Bot,Agent_D,Pending,3 min,Thanks for fixing it.,We’ve initiated your request.
+T10140,John Smith,john@email.com,8930117681,Order Issue,Missing Item,Sample query about missing item,Neutral,Low,Email,Agent_D,Escalated,21 min,Quick help. Thanks!,"Yes, it’s waterproof."
+T10141,Emily Chen,emily@email.com,8085843232,Product Inquiry,Warranty,Sample query about warranty,Neutral,Low,Social Media,Agent_C,Resolved,30 min,Thanks for fixing it.,Your order is on the way.
+T10142,Sophia Kim,sophia@email.com,7288123731,Technical Issue,Payment Failure,Sample query about payment failure,Frustrated,Low,Website Bot,Agent_A,Pending,12 min,That helped!,We’ve initiated your request.
+T10143,Ava Patel,ava@email.com,8685036622,Technical Issue,Payment Failure,Sample query about payment failure,Neutral,Medium,Social Media,Bot,Escalated,3 min,That helped!,Your order is on the way.
+T10144,Emily Chen,emily@email.com,8362863258,Refund Request,Return Pickup,Sample query about return pickup,Happy,Low,Mobile App,Agent_B,Pending,10 min,Waiting for pickup confirmation.,Please reinstall the app.
+T10145,John Smith,john@email.com,9645301101,Refund Request,Refund Delay,Sample query about refund delay,Neutral,Low,Email,Agent_B,Pending,14 min,That helped!,Please reinstall the app.
+T10146,Ava Patel,ava@email.com,8668194853,Product Inquiry,Warranty,Sample query about warranty,Frustrated,Critical,Live Chat,Agent_B,Resolved,27 min,Got it. Thanks!,Please reinstall the app.
+T10147,Liam Wong,liam@email.com,7486306011,Technical Issue,App Crash,Sample query about app crash,Happy,Medium,Live Chat,Agent_B,Escalated,12 min,Thanks for fixing it.,Please reinstall the app.
+T10148,Robert Davis,robert@email.com,9111791951,Refund Request,Refund Delay,Sample query about refund delay,Frustrated,High,Email,Agent_D,Pending,19 min,Thanks for fixing it.,Please reinstall the app.
+T10149,Robert Davis,robert@email.com,7266370741,Account Issue,Password Reset,Sample query about password reset,Frustrated,Critical,Mobile App,Agent_A,Escalated,23 min,Quick help. Thanks!,"Yes, it’s waterproof."
+T10150,Emily Chen,emily@email.com,8368566157,Refund Request,Return Pickup,Sample query about return pickup,Angry,Critical,Live Chat,Agent_C,Escalated,9 min,That helped!,Please reinstall the app.
+T10151,David Park,david@email.com,7518246499,Account Issue,Account Locked,Sample query about account locked,Angry,Low,Email,Agent_D,Escalated,27 min,Got it. Thanks!,Your order is on the way.
+T10152,Mia Zhao,mia@email.com,9037626723,Technical Issue,Payment Failure,Sample query about payment failure,Neutral,Medium,Email,Agent_A,Escalated,11 min,Thanks for fixing it.,"Yes, it’s waterproof."
+T10153,Robert Davis,robert@email.com,9693346870,Refund Request,Return Pickup,Sample query about return pickup,Neutral,Critical,Live Chat,Agent_D,Escalated,15 min,Waiting for pickup confirmation.,Please reinstall the app.
+T10154,John Smith,john@email.com,8917383874,Product Inquiry,Warranty,Sample query about warranty,Angry,Low,Website Bot,Bot,Pending,15 min,That helped!,We’ve initiated your request.
+T10155,Ava Patel,ava@email.com,7198904843,Technical Issue,Payment Failure,Sample query about payment failure,Happy,Medium,Mobile App,Agent_D,Resolved,23 min,That helped!,"Yes, it’s waterproof."
+T10156,Sophia Kim,sophia@email.com,7076508532,Product Inquiry,Warranty,Sample query about warranty,Frustrated,High,Social Media,Agent_B,Resolved,5 min,Thanks for fixing it.,Your order is on the way.
+T10157,Ava Patel,ava@email.com,8049344259,Product Inquiry,Warranty,Sample query about warranty,Frustrated,Medium,Social Media,Agent_C,Escalated,22 min,Got it. Thanks!,Your order is on the way.
+T10158,Emily Chen,emily@email.com,8397198909,Order Issue,Missing Item,Sample query about missing item,Frustrated,High,Email,Agent_C,Resolved,5 min,Quick help. Thanks!,Your order is on the way.
+T10159,Emily Chen,emily@email.com,7641789231,Order Issue,Missing Item,Sample query about missing item,Neutral,Medium,Mobile App,Agent_B,Pending,14 min,That helped!,Your order is on the way.
+T10160,Liam Wong,liam@email.com,7248784904,Order Issue,Missing Item,Sample query about missing item,Frustrated,High,Live Chat,Agent_A,Resolved,15 min,Thanks for fixing it.,Your order is on the way.
+T10161,Sarah Lee,sarah@email.com,9992502846,Product Inquiry,Specification,Sample query about specification,Neutral,Low,Mobile App,Agent_A,Escalated,25 min,Thanks for fixing it.,"Click ""Forgot Password""."
+T10162,Liam Wong,liam@email.com,8630847278,Refund Request,Refund Delay,Sample query about refund delay,Happy,Low,Social Media,Agent_A,Resolved,3 min,That helped!,"Click ""Forgot Password""."
+T10163,Sarah Lee,sarah@email.com,7052249474,Order Issue,Wrong Item,Sample query about wrong item,Angry,Medium,Live Chat,Bot,Escalated,17 min,Thanks for fixing it.,We’ve initiated your request.
+T10164,Ava Patel,ava@email.com,9202359911,Refund Request,Return Pickup,Sample query about return pickup,Happy,Medium,Mobile App,Agent_C,Escalated,18 min,Thanks for fixing it.,Your order is on the way.
+T10165,Mia Zhao,mia@email.com,8218594183,Refund Request,Refund Delay,Sample query about refund delay,Happy,Low,Mobile App,Agent_B,Escalated,7 min,Got it. Thanks!,We’ve initiated your request.
+T10166,Sarah Lee,sarah@email.com,9875666925,Product Inquiry,Specification,Sample query about specification,Happy,High,Email,Agent_D,Resolved,24 min,Thanks for fixing it.,Your order is on the way.
+T10167,Emily Chen,emily@email.com,7660277222,Order Issue,Delayed Delivery,Sample query about delayed delivery,Happy,Low,Email,Agent_A,Pending,18 min,Got it. Thanks!,We’ve initiated your request.
+T10168,David Park,david@email.com,7881895306,Refund Request,Return Pickup,Sample query about return pickup,Frustrated,Medium,Social Media,Agent_A,Resolved,1 min,That helped!,"Yes, it’s waterproof."
+T10169,Ava Patel,ava@email.com,9352495019,Product Inquiry,Specification,Sample query about specification,Neutral,Critical,Social Media,Agent_C,Pending,13 min,Quick help. Thanks!,Your order is on the way.
+T10170,Noah Brown,noah@email.com,8612355243,Refund Request,Refund Delay,Sample query about refund delay,Frustrated,High,Mobile App,Agent_A,Resolved,14 min,Waiting for pickup confirmation.,Your order is on the way.
+T10171,Liam Wong,liam@email.com,9283684100,Account Issue,Account Locked,Sample query about account locked,Angry,Critical,Website Bot,Agent_A,Resolved,13 min,Thanks for fixing it.,"Click ""Forgot Password""."
+T10172,Mia Zhao,mia@email.com,7547808270,Order Issue,Delayed Delivery,Sample query about delayed delivery,Neutral,Medium,Mobile App,Bot,Resolved,23 min,Got it. Thanks!,Your order is on the way.
+T10173,Sarah Lee,sarah@email.com,9071548434,Product Inquiry,Warranty,Sample query about warranty,Happy,High,Mobile App,Agent_C,Resolved,25 min,Waiting for pickup confirmation.,"Yes, it’s waterproof."
+T10174,Noah Brown,noah@email.com,8185204530,Order Issue,Missing Item,Sample query about missing item,Frustrated,Medium,Mobile App,Agent_C,Escalated,19 min,Thanks for fixing it.,Your order is on the way.
+T10175,Ava Patel,ava@email.com,7334986131,Account Issue,Account Locked,Sample query about account locked,Happy,High,Website Bot,Agent_C,Pending,5 min,That helped!,Please reinstall the app.
+T10176,Emily Chen,emily@email.com,7089538263,Refund Request,Refund Delay,Sample query about refund delay,Neutral,Low,Email,Agent_D,Escalated,25 min,Got it. Thanks!,"Click ""Forgot Password""."
+T10177,Robert Davis,robert@email.com,8830540448,Technical Issue,App Crash,Sample query about app crash,Frustrated,Low,Social Media,Agent_D,Pending,1 min,That helped!,We’ve initiated your request.
+T10178,Sarah Lee,sarah@email.com,8059557693,Order Issue,Missing Item,Sample query about missing item,Happy,Critical,Mobile App,Agent_B,Escalated,5 min,Thanks for fixing it.,Please reinstall the app.
+T10179,Noah Brown,noah@email.com,9751306189,Order Issue,Delayed Delivery,Sample query about delayed delivery,Angry,Low,Live Chat,Agent_A,Resolved,16 min,Waiting for pickup confirmation.,Your order is on the way.
+T10180,Liam Wong,liam@email.com,8742277667,Order Issue,Missing Item,Sample query about missing item,Neutral,Low,Website Bot,Agent_D,Resolved,29 min,Quick help. Thanks!,Your order is on the way.
+T10181,Noah Brown,noah@email.com,7132192586,Product Inquiry,Warranty,Sample query about warranty,Neutral,Critical,Live Chat,Bot,Resolved,7 min,Thanks for fixing it.,Please reinstall the app.
+T10182,Sarah Lee,sarah@email.com,8835676004,Order Issue,Missing Item,Sample query about missing item,Happy,Medium,Website Bot,Agent_A,Escalated,30 min,Got it. Thanks!,Please reinstall the app.
+T10183,Sarah Lee,sarah@email.com,8339432538,Order Issue,Delayed Delivery,Sample query about delayed delivery,Angry,Medium,Email,Agent_B,Pending,28 min,Got it. Thanks!,Your order is on the way.
+T10184,Robert Davis,robert@email.com,8516344805,Account Issue,Account Locked,Sample query about account locked,Happy,High,Live Chat,Agent_C,Escalated,18 min,Got it. Thanks!,"Click ""Forgot Password""."
+T10185,Mia Zhao,mia@email.com,9745203503,Account Issue,Password Reset,Sample query about password reset,Neutral,High,Live Chat,Agent_D,Resolved,4 min,Got it. Thanks!,Your order is on the way.
+T10186,Mia Zhao,mia@email.com,9371207658,Refund Request,Return Pickup,Sample query about return pickup,Frustrated,High,Website Bot,Agent_C,Pending,23 min,Quick help. Thanks!,Your order is on the way.
+T10187,Ava Patel,ava@email.com,7798887049,Refund Request,Return Pickup,Sample query about return pickup,Neutral,High,Live Chat,Agent_C,Resolved,18 min,That helped!,Your order is on the way.
+T10188,John Smith,john@email.com,8542864079,Refund Request,Refund Delay,Sample query about refund delay,Neutral,High,Mobile App,Agent_C,Escalated,17 min,That helped!,"Yes, it’s waterproof."
+T10189,Emily Chen,emily@email.com,9745437687,Order Issue,Wrong Item,Sample query about wrong item,Frustrated,Medium,Website Bot,Agent_D,Escalated,16 min,Quick help. Thanks!,"Click ""Forgot Password""."
+T10190,Sarah Lee,sarah@email.com,8771655664,Account Issue,Account Locked,Sample query about account locked,Neutral,Medium,Mobile App,Agent_A,Pending,10 min,Quick help. Thanks!,Please reinstall the app.
+T10191,Sophia Kim,sophia@email.com,8197975979,Product Inquiry,Specification,Sample query about specification,Angry,Medium,Live Chat,Agent_D,Resolved,17 min,Got it. Thanks!,Please reinstall the app.
+T10192,Mia Zhao,mia@email.com,8232643510,Product Inquiry,Specification,Sample query about specification,Happy,High,Mobile App,Agent_C,Pending,26 min,Waiting for pickup confirmation.,Please reinstall the app.
+T10193,Sarah Lee,sarah@email.com,9080048723,Refund Request,Refund Delay,Sample query about refund delay,Happy,High,Social Media,Agent_D,Resolved,11 min,Thanks for fixing it.,We’ve initiated your request.
+T10194,Sarah Lee,sarah@email.com,7220563572,Product Inquiry,Availability,Sample query about availability,Angry,High,Website Bot,Bot,Resolved,23 min,Thanks for fixing it.,"Yes, it’s waterproof."
+T10195,Liam Wong,liam@email.com,9786881032,Account Issue,Password Reset,Sample query about password reset,Angry,Medium,Live Chat,Agent_D,Pending,25 min,That helped!,Your order is on the way.
+T10196,Ava Patel,ava@email.com,7391155466,Technical Issue,App Crash,Sample query about app crash,Angry,Critical,Email,Agent_D,Pending,10 min,Got it. Thanks!,Please reinstall the app.
+T10197,Emily Chen,emily@email.com,8214454503,Order Issue,Wrong Item,Sample query about wrong item,Frustrated,High,Live Chat,Agent_A,Pending,17 min,Thanks for fixing it.,"Click ""Forgot Password""."
+T10198,Sarah Lee,sarah@email.com,8039152217,Product Inquiry,Availability,Sample query about availability,Frustrated,High,Mobile App,Agent_C,Escalated,27 min,Got it. Thanks!,"Yes, it’s waterproof."
+T10199,Noah Brown,noah@email.com,8257089824,Account Issue,Account Locked,Sample query about account locked,Angry,High,Website Bot,Agent_B,Pending,20 min,Quick help. Thanks!,"Yes, it’s waterproof."
+T10200,Ava Patel,ava@email.com,9718263456,Technical Issue,App Crash,Sample query about app crash,Neutral,Critical,Website Bot,Bot,Pending,14 min,Thanks for fixing it.,"Click ""Forgot Password""."
